@@ -1,0 +1,41 @@
+body{background: #ffcbdb;}
+
+.salao {padding-left: 20px;}
+
+#banner1 {width: 100%;}
+
+.titulo-centralizado {text-align: center;}
+
+p {text-align: center;
+}
+
+				
+#missao {font-size: 20px;
+}
+
+em strong {color: black;
+}s
+
+.itens { font-style: italic; 
+}
+
+.principal{background: #ffffff;
+	padding: 30px;
+}
+
+.beneficios {background: #ffffff;
+	padding: 17px;
+}
+
+#banner2 {width: 100%;
+
+}
+
+#banner2 {width: 50%;
+}
+ ul { display: inline-block; 
+ 	vertical-align: top;
+ 	width: 20%;
+ 	margin-right: 8%;
+ 	 }
+
